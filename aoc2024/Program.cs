@@ -8,6 +8,7 @@ using aoc2024.day5;
 using aoc2024.day6;
 using aoc2024.day7;
 using aoc2024.day8;
+using aoc2024.day9;
 
 Console.WriteLine("This is the answer to Day1 Part 1");
 Day1.SolvePart1();
@@ -41,4 +42,8 @@ Console.WriteLine("This is the answer to Day8 Part 1");
 Day8.SolvePart1();
 Console.WriteLine("This is the answer to Day8 Part 2");
 Day8.SolvePart2();
+Console.WriteLine("This is the answer to Day9 Part 1");
+Day9.SolvePart1();
+Console.WriteLine("This is the answer to Day9 Part 2");
+Day9.SolvePart2();
 Console.WriteLine("These are the answers...... Hopefully!");
